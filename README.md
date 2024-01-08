@@ -2,7 +2,7 @@
 
 [Click Me!]( https://kaplanh.github.io/google-Landing-page/)
 
-![google-Landing-Page](https://github.com/kaplanh/Google-Landing-with-float/assets/101884444/81346c06-5d7f-423c-8ed5-57c690621a3c)
+![google landing page](https://github.com/kaplanh/Google-Landing-Page-with-Flex/assets/101884444/c497f557-b8d6-41b0-94ab-146664ff589b)
 
 ## Project-003 : Google Landing Page
 
