@@ -1,4 +1,4 @@
-# Google Landing Page with float
+# Google Landing Page with Flex
 
 [Click Me!]( https://kaplanh.github.io/google-Landing-page/)
 
